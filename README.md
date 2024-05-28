@@ -16,3 +16,5 @@ Google Query Sheets
 SELECT * FROM TABLE 2
 WHERE CONDITION IS = MET
 ~~~
+
+![](Udemy Logo copy)
