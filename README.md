@@ -18,3 +18,5 @@ WHERE CONDITION IS = MET
 ~~~
 
 ![](Udemy Logo copy)
+
+![](Church-and-vineyard.jpg)
