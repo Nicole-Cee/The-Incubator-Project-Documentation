@@ -21,4 +21,7 @@ WHERE CONDITION IS = MET
 
 ![](Church-and-vineyard.jpg)
 
-column 1 - column 2 - column 3
+|Nicole 1|Nicole 2|Nicole 3|
+|------|------|------|
+Pray|Sing|Read
+
