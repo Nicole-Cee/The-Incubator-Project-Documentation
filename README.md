@@ -20,3 +20,5 @@ WHERE CONDITION IS = MET
 ![](Udemy Logo copy)
 
 ![](Church-and-vineyard.jpg)
+
+column 1 - column 2 - column 3
